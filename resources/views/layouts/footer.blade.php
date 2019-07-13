@@ -1,11 +1,12 @@
- <!-- start footer --> 
-<footer class="footer-standard-dark bg-extra-dark-gray"> 
+ <!-- start footer -->
+<footer class="footer-standard-dark bg-extra-dark-gray">
     <div class="footer-widget-area padding-five-tb xs-padding-30px-tb">
         <div class="container">
             <div class="row equalize xs-equalize-auto">
-                <div class="col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray sm-no-border-right sm-margin-30px-bottom xs-text-center">
+                <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray sm-no-border-right sm-margin-30px-bottom xs-text-center">
                     <!-- start logo -->
-                    <a href="index.html" class="margin-20px-bottom display-inline-block"><img class="footer-logo" src="{{asset('logos/Fegoatwhite2@4x.png')}}" data-rjs="{{asset('logos/Fegoatwhite2@4x.png')}}" alt="Pofo"></a>
+                    <a href="{{URL('/')}}" class="margin-20px-bottom display-inline-block">
+                        <img class="footer-logo" src="{{asset('logos/white.png')}}" data-rjs="{{asset('logos/white.png')}}" alt="Pofo"></a>
                     <!-- end logo -->
                     <div class="clear"></div>
                     <div class="social-icon-style-8 display-inline-block vertical-align-middle">
@@ -19,30 +20,23 @@
                     <!-- end social media -->
                 </div>
                 <!-- start additional links -->
-                <div class="col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-no-border-right sm-margin-30px-bottom xs-text-center">
+                <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-no-border-right sm-margin-30px-bottom xs-text-center">
                     <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">Additional Links</div>
                     <ul class="list-unstyled">
-                        <li><a class="text-small" href="{{URL('home')}}">Home</a></li>
+                        <li><a class="text-small" href="{{URL('/')}}">Home</a></li>
                         <li><a class="text-small" href="{{URL('/about')}}">About</a></li>
                         <li><a class="text-small" href="{{URL('/projects')}}">Projects</a></li>
                     </ul>
                 </div>
                 <!-- end additional links -->
                 <!-- start contact information -->
-                <div class="col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right  xs-margin-30px-bottom xs-text-center">
+                <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right  xs-margin-30px-bottom xs-text-center">
                     <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">Contact Info</div>
-                    <div class="text-small">Email: <a href="mailto:sales@domain.com">info@fairgoat.com</a></div>
+                    <div class="text-small">Email: <a href="mailto:sales@domain.com">mail@maeve.com</a></div>
                     <div class="text-small">Phone: +234 9053693367</div>
                 </div>
                 <!-- end contact information -->
-                <!-- start instagram -->
-                <div class="col-md-3 col-sm-6 col-xs-12 widget padding-45px-left sm-padding-15px-left xs-text-center">
-                    <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-20px-bottom font-weight-600">Instagram portfolio</div>
-                    <div class="instagram-follow-api">
-                        <ul id="instaFeed-footer"></ul>
-                    </div>
-                </div>
-                <!-- end instagram -->
+
             </div>
         </div>
     </div>
@@ -50,7 +44,7 @@
         <div class="container">
             <div class="row">
                 <!-- start copyright -->
-                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">&copy; 2017 FairGoat</div>
+                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">&copy; 2017 Maeve </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-right text-small xs-text-center">
                     <a href="javascript:void(0);" class="text-dark-gray">Term and Condition</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:void(0);" class="text-dark-gray">Privacy Policy</a>
                 </div>

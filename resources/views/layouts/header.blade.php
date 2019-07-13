@@ -5,7 +5,7 @@
             <div class="row">
                 <!-- start logo -->
                 <div class="col-md-2 col-xs-5">
-                    <a href="{{URL('/')}}" title="Pofo" class="logo"><img src="{{asset('logos/FegoatBlackx2@4x.png')}}" data-rjs="{{asset('logos/FegoatBlackx2@4x.png')}}" class="logo-dark" alt="Pofo"><img src="{{asset('logos/Fegoatwhite2@4x.png')}}" data-rjs="{{asset('logos/Fegoatwhite2@4x.png')}}" alt="Pofo" class="logo-light default"></a>
+                    <a href="{{URL('/')}}" title="Maeve Services" class="logo"><img src="{{asset('logos/black2.png')}}" data-rjs="{{asset('logos/black2.png')}}" class="logo-dark" alt="Maeve"><img src="{{asset('logos/white2.png')}}" data-rjs="{{asset('logos/white2.png')}}" alt="Maeve" class="logo-light default"></a>
                 </div>
                 <!-- end logo -->
                 <div class="col-md-7 col-xs-2 width-auto pull-right accordion-menu xs-no-padding-right">
@@ -19,30 +19,27 @@
                         <ul id="accordion" class="nav navbar-nav navbar-left no-margin alt-font text-normal" data-in="fadeIn" data-out="fadeOut">
                             <!-- start menu item -->
                             <li class="dropdown megamenu-fw">
-                                <a href="{{URL('/')}}">Home</a><i class="" data-toggle="dropdown" aria-hidden="true"></i> 
+                                <a href="{{URL('/')}}">Home</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                             <!-- end menu item -->
                             <li class="dropdown simple-dropdown">
-                                <a href="{{URL('/about')}}">About</a><i class="" data-toggle="dropdown" aria-hidden="true"></i> 
-                            </li> 
-                            <li class="dropdown simple-dropdown">
-                                <a href="{{URL('/process')}}">Process</a><i class="" data-toggle="dropdown" aria-hidden="true"></i> 
-                            </li> 
-                            <li class="dropdown megamenu-fw">
-                                <a href="{{URL('/projects')}}">Projects</a><i class="" data-toggle="dropdown" aria-hidden="true"></i> 
+                                <a href="{{URL('/about')}}">About</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                             <li class="dropdown simple-dropdown">
-                                <a href="{{URL('/blog')}}" title="Blog">Blog</a><i class="" data-toggle="dropdown" aria-hidden="true"></i> 
+                                <a href="{{URL('/process')}}">Process</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
+                            </li> 
+                            <li class="dropdown simple-dropdown">
+                                <a href="{{URL('/blog')}}" title="Blog">Blog</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                             <li class="dropdown megamenu-fw">
-                                <a href="{{URL('/contact')}}">Contact</a><i class="" data-toggle="dropdown" aria-hidden="true"></i> 
+                                <a href="{{URL('/contact')}}">Contact</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-2 col-xs-5 width-auto">  
+                <div class="col-md-2 col-xs-5 width-auto">
                 </div>
-            </div> 
+            </div>
         </div>
-    </nav>  
+    </nav>
  </header>

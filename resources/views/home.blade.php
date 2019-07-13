@@ -52,7 +52,7 @@
     <div class="container position-relative">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 text-center center-col">
-             <h5 class="alt-font text-white">Find. Execute. Validate.</h5>
+             <h5 class="alt-font text-white">Build. Learn. Grow.</h5>
              <span class="text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100">
                 Learn about our process
                 <a href="{{URL('/process')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Our Process</a>
@@ -63,99 +63,6 @@
     </div>
 </section>
 <!-- end parallax with video section -->
-
- <!-- start masonry portfolio section -->
- <section class="no-padding-bottom wow fadeIn">
-    <div class="container-fluid no-padding">
-        <div class="row text-center">
-            <div class="col-md-12">
-                <h5 class="text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 sm-width-100 xs-width-100"> Projects</h5>
-                <span class="separator-line-horrizontal-medium-light2 bg-deep-pink display-table margin-auto width-100px"></span>
-            </div>
-        </div>
-        <div class="row no-margin">
-            <div class="filter-content overflow-hidden margin-100px-top sm-margin-75px-top xs-margin-50px-top">
-                <ul class="portfolio-grid work-4col hover-option2 gutter-small">
-                    <li class="grid-sizer"></li>
-                    <!-- start portfolio item -->
-                    <li class="grid-item wow fadeInUp">
-                        <a href="single-project-page-01.html">
-                            <figure>
-                                <div class="portfolio-img bg-deep-pink"><img src="http://placehold.it/800x560" alt=""/></div>
-                                <figcaption>
-                                    <div class="portfolio-hover-main text-left">
-                                        <div class="portfolio-hover-box vertical-align-bottom">
-                                            <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                <div class="bg-black margin-six-bottom separator-line-horrizontal-medium-light2"></div>
-                                                <span class="font-weight-600 line-height-normal alt-font text-white text-uppercase margin-one-half-bottom display-block">Herbal Beauty Salon</span>
-                                                <p class="text-white text-uppercase text-extra-small">Branding and Brochure</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </li>
-                    <!-- end portfolio item -->
-                    <!-- start portfolio item -->
-                    <li class="grid-item wow fadeInUp" data-wow-delay="0.2s">
-                        <a href="single-project-page-01.html">
-                            <figure>
-                                <div class="portfolio-img bg-deep-pink"><img src="http://placehold.it/800x1140" alt=""/></div>
-                                <figcaption>
-                                    <div class="portfolio-hover-main text-left">
-                                        <div class="portfolio-hover-box vertical-align-bottom">
-                                            <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                <div class="bg-black margin-six-bottom separator-line-horrizontal-medium-light2"></div>
-                                                <span class="font-weight-600 line-height-normal alt-font text-white text-uppercase margin-one-half-bottom display-block">Tailoring Interior</span>
-                                                <p class="text-white text-uppercase text-extra-small">Web and Photography</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </li>
-                    <!-- end portfolio item -->
-                    <!-- start portfolio item -->
-                    <li class="grid-item wow fadeInUp" data-wow-delay="0.4s">
-                        <a href="single-project-page-07.html">
-                            <figure>
-                                <div class="portfolio-img bg-deep-pink"><img src="http://placehold.it/800x560" alt=""/></div>
-                                <figcaption>
-                                    <div class="portfolio-hover-main text-left">
-                                        <div class="portfolio-hover-box vertical-align-bottom">
-                                            <div class="portfolio-hover-content position-relative last-paragraph-no-margin">
-                                                <div class="bg-black margin-six-bottom separator-line-horrizontal-medium-light2"></div>
-                                                <span class="font-weight-600 line-height-normal alt-font text-white text-uppercase margin-one-half-bottom display-block">Banana Design</span>
-                                                <p class="text-white text-uppercase text-extra-small">Logo and Identity</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </li>
-                    <!-- end portfolio item -->
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- end masonry portfolio section -->
-<!-- start call to action -->
-<section class="half-section wow fadeIn cover-background" style="background-image: url('/customimg/light-unsplash.jpg');">
-    <div class="opacity-medium bg-extra-dark-gray"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 center-col position-relative text-center">
-                <span class="text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100">We'd love to hear about your project</span>
-                <a href="{{URL('/get-started')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Start a Project</a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- end call to action -->
   <!-- start testimonial style 03 section -->
 <section class="wow fadeIn">
     <div class="container">
@@ -169,35 +76,126 @@
         <div class="row">
             <!-- start testimonial item -->
             <div class="col-md-4 col-sm-4 col-xs-12 sm-margin-four-bottom text-center xs-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin">
-                <img src="http://placehold.it/149x149" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
-                <p class="width-90 center-col">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work.</p>
+                <img src="{{asset('logos/black2.png')}}" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
+                <p class="width-90 center-col">Their team are easy to work with and helped us increase revenue in a short amount of time. Thanks guys for all your hard work.</p>
                 <i class="fas fa-quote-left icon-small text-deep-pink display-block margin-30px-top margin-15px-bottom"></i>
-                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Shoko Mugikura</span>
-                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Design Manager</span>
+                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Buhari Goodluck</span>
+                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Prima Logistics</span>
             </div>
             <!-- end testimonial item -->
             <!-- start testimonial item -->
             <div class="col-md-4 col-sm-4 col-xs-12 sm-margin-four-bottom text-center xs-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin" data-wow-delay="0.2s">
-                <img src="http://placehold.it/149x149" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
-                <p class="width-90 center-col">Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies.</p>
+                <img src="{{asset('logos/black2.png')}}" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
+                <p class="width-90 center-col">Trust us we looked for a very long time and wasted bla bla bla bla.</p>
                 <i class="fas fa-quote-left icon-small text-deep-pink display-block margin-30px-top margin-15px-bottom"></i>
-                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Alexander Smith</span>
-                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Co Founder / CEO</span>
+                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Aje Baba</span>
+                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Riska Limited</span>
             </div>
             <!-- end testimonial item -->
             <!-- start testimonial item -->
             <div class="col-md-4 col-sm-4 col-xs-12 sm-margin-four-bottom text-center wow fadeInRight last-paragraph-no-margin" data-wow-delay="0.4s">
-                <img src="http://placehold.it/149x149" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
-                <p class="width-90 center-col">This is an excellent company! I personally enjoyed the energy and the professional support the whole team gave to us into creating website.</p>
+                <img src="{{asset('logos/black2.png')}}" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
+                <p class="width-90 center-col">This is an excellent company! I personally enjoyed the energy and the professional support the whole team gave to us.</p>
                 <i class="fas fa-quote-left icon-small text-deep-pink display-block margin-30px-top margin-15px-bottom"></i>
-                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Lindsay Swanson</span>
-                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Creative Director</span>
+                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Abdul Mohammed</span>
+                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Creda Limited</span>
             </div>
             <!-- start testimonial item -->
         </div>
     </div>
 </section>
-        <!-- start testimonial style 03 section -->
+
+<section class="half-section wow fadeIn cover-background" style="background-image: url('/customimg/light-unsplash.jpg');">
+    <div class="opacity-medium bg-extra-dark-gray"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 center-col position-relative text-center">
+                <span class="text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100">We'd love to hear about your business</span>
+                <a href="{{URL('/get-started')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Get Started</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end call to action -->
+<!-- start blog section -->
+<section class="wow fadeIn hover-option4 blog-post-style3">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
+                <h5 class="alt-font text-extra-dark-gray font-weight-700 text-uppercase">Latest Blog Posts</h5>
+            </div>
+        </div>
+        <div class="row equalize xs-equalize-auto">
+            <!-- start blog post item -->
+            <div class="grid-item col-md-4 col-sm-6 col-xs-12 wow fadeInUp sm-padding-30px-bottom xs-text-center">
+                <div class="blog-post bg-light-gray inner-match-height">
+                    <div class="blog-post-images overflow-hidden position-relative">
+                        <a href="blog-post-layout-01.html">
+                                <img src="{{asset('logos/black2.png')}}" alt="">
+                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
+                        </a>
+                    </div>
+                    <div class="post-details padding-40px-all sm-padding-20px-all">
+                        <a href="blog-post-layout-01.html" class="alt-font post-title text-medium text-extra-dark-gray width-100 display-block md-width-100 margin-15px-bottom">
+                            10 Tips to take your business to the next level.
+                        </a>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
+                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb sm-margin-15px-tb"></div>
+                        <div class="author">
+                            <span class="text-medium-gray text-uppercase text-extra-small display-inline-block sm-display-block sm-margin-10px-top">by <a href="blog-grid.html" class="text-medium-gray">Okeke Felix</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 July 2019</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end blog post item -->
+            <!-- start blog post item -->
+            <div class="grid-item col-md-4 col-sm-6 col-xs-12 wow fadeInUp sm-padding-30px-bottom xs-text-center" data-wow-delay="0.2s">
+                <div class="blog-post bg-light-gray inner-match-height">
+                    <div class="blog-post-images overflow-hidden position-relative">
+                        <a href="blog-post-layout-02.html">
+                                <img src="{{asset('logos/black2.png')}}" alt="">
+                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
+                        </a>
+                    </div>
+                    <div class="post-details padding-40px-all sm-padding-20px-all">
+                        <a href="blog-post-layout-02.html" class="alt-font post-title text-medium text-extra-dark-gray width-100 display-block md-width-100 margin-15px-bottom">
+                            Taxation; The good, bad and ugly.
+                        </a>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
+                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb sm-margin-15px-tb"></div>
+                        <div class="author">
+                            <span class="text-medium-gray text-uppercase text-extra-small display-inline-block sm-display-block sm-margin-10px-top">by <a href="blog-grid.html" class="text-medium-gray">Okeke Felix</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 July 2019</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end blog post item -->
+            <!-- start blog post item -->
+            <div class="grid-item col-md-4 col-sm-6 col-xs-12 wow fadeInUp xs-text-center" data-wow-delay="0.4s">
+                <div class="blog-post bg-light-gray inner-match-height">
+                    <div class="blog-post-images overflow-hidden position-relative">
+                        <a href="blog-post-layout-03.html">
+                                <img src="{{asset('logos/black2.png')}}" alt="">
+                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
+                        </a>
+                    </div>
+                    <div class="post-details padding-40px-all sm-padding-20px-all">
+                        <a href="blog-post-layout-03.html" class="alt-font post-title text-medium text-extra-dark-gray width-100 display-block md-width-100 margin-15px-bottom">
+                            A Guide to Management.
+                        </a>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy....</p>
+                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb sm-margin-15px-tb"></div>
+                        <div class="author">
+                            <span class="text-medium-gray text-uppercase text-extra-small display-inline-block sm-display-block sm-margin-10px-top">by <a href="blog-grid.html" class="text-medium-gray">Okeke Felix</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 July 2019</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end blog post item -->
+        </div>
+    </div>
+</section>
+<!-- end blog section -->
 
 
 @endsection

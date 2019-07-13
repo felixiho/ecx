@@ -12,10 +12,7 @@
         <!-- keywords -->
         <meta name="keywords" content=" maeve, business, small business, Nigeria, startup, support, accounting, grow, scale, manage">
         <!-- favicon -->
-        <link rel="shortcut icon" href="{{ asset('logos/f-57/4x/F@4x.png') }}">
-        <link rel="apple-touch-icon" href="{{ asset('logos/f-57/4x/F@4x.png') }}">
-        <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('logos/f-72/4x/Untitled-5@4x.png') }}">
-        <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('logos/f-114/4x/Untitled-6@4x.png') }}">
+        <link rel="shortcut icon" href="{{ asset('logos/maevelarge.png') }}">
         <!-- animation -->
         <link rel="stylesheet" href="{{ asset('css/animate.css') }}" />
         <!-- bootstrap -->
