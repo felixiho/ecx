@@ -5,7 +5,7 @@
             <div class="row">
                 <!-- start logo -->
                 <div class="col-md-2 col-xs-5">
-                    <a href="{{URL('/')}}" title="Maeve Services" class="logo"><img src="{{asset('logos/black2.png')}}" data-rjs="{{asset('logos/black2.png')}}" class="logo-dark" alt="Maeve"><img src="{{asset('logos/white2.png')}}" data-rjs="{{asset('logos/white2.png')}}" alt="Maeve" class="logo-light default"></a>
+                    <a href="{{URL('/')}}" title="Mave Services" class="logo"><img src="{{asset('logos/black2.png')}}" data-rjs="{{asset('logos/black2.png')}}" class="logo-dark" alt="Mave"><img src="{{asset('logos/white2.png')}}" data-rjs="{{asset('logos/white2.png')}}" alt="Mave" class="logo-light default"></a>
                 </div>
                 <!-- end logo -->
                 <div class="col-md-7 col-xs-2 width-auto pull-right accordion-menu xs-no-padding-right">

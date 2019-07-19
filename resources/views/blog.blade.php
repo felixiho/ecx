@@ -11,7 +11,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12 extra-small-screen display-table page-title-large">
                 <div class="display-table-cell vertical-align-middle text-center">
                     <!-- start page title -->
-                    <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Maeve's Blog</h1>
+                    <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Mave's Blog</h1>
                     <span class="text-white opacity6 alt-font">Browse through our well written articles</span>
                     <!-- end page title -->
                 </div>

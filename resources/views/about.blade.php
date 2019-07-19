@@ -41,12 +41,12 @@
         <div class="row equalize md-equalize-auto">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding display-table md-margin-five-top sm-text-center xs-no-margin-top wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
                 <div class="display-table-cell vertical-align-middle padding-twelve-lr md-padding-15px-lr xs-text-center xs-padding-five-lr xs-padding-ten-top width-100">
-                    <h4 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">MAEVE's MISSION </h4>
+                    <h4 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">Mave's MISSION </h4>
                     <p class="text-extra-large text-extra-dark-gray alt-font font-weight-400">
                     To take businesses to the next level.
                     </p>
                     <p >
-                    Maeve Business Support Services handles each client dinstinctly; prioritizing on the necessary
+                    Mave Business Support Services handles each client dinstinctly; prioritizing on the necessary
                     features and using industry standard practices to quickly develop a well tailored solution.
                     bla blablablaasdfadfasdfmdf
 

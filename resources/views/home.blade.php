@@ -33,7 +33,7 @@
                     <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink">We give support services to result driven firms.</span>
                     <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-margin-lr-auto xs-width-100">A consultancy firm Crafting the next billion dollar business.</h4>
                     <p class="width-80 md-width-100">
-                        Maeve Business Support Services handles each client uniquely, prioritizing on the necessary areas and using industry standard to quickly render a well-tailored service.
+                        Mave Business Support Services handles each client uniquely, prioritizing on the necessary areas and using industry standard to quickly render a well-tailored service.
                      </p>
                     <a href="{{URL('/about')}}" class="btn btn-dark-gray btn-small text-extra-small border-radius-4 margin-35px-top">
                         About Us

@@ -32,7 +32,7 @@
                 <!-- start contact information -->
                 <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right  xs-margin-30px-bottom xs-text-center">
                     <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">Contact Info</div>
-                    <div class="text-small">Email: <a href="mailto:sales@domain.com">mail@maeve.com</a></div>
+                    <div class="text-small">Email: <a href="mailto:sales@domain.com">mail@mave.com</a></div>
                     <div class="text-small">Phone: +234 9053693367</div>
                 </div>
                 <!-- end contact information -->
@@ -44,7 +44,7 @@
         <div class="container">
             <div class="row">
                 <!-- start copyright -->
-                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">&copy; 2017 Maeve </div>
+                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">&copy; 2017 Mave </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-right text-small xs-text-center">
                     <a href="javascript:void(0);" class="text-dark-gray">Term and Condition</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:void(0);" class="text-dark-gray">Privacy Policy</a>
                 </div>

@@ -2,17 +2,17 @@
 <html class="no-js" lang="en">
     <head>
         <!-- title -->
-        <title>Maeve Business Support Services</title>
+        <title>Mave Business Support Services</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
         <meta name="author" content="ThemeZaa">
         <!-- description -->
-        <meta name="description" content="Maeve Business Support Services is the service that provides existing and intending small business owners and managers information, skills and the necessary support to set up and grow their business. ">
+        <meta name="description" content="Mave Business Support Services is the service that provides existing and intending small business owners and managers information, skills and the necessary support to set up and grow their business. ">
         <!-- keywords -->
-        <meta name="keywords" content=" maeve, business, small business, Nigeria, startup, support, accounting, grow, scale, manage">
+        <meta name="keywords" content=" mave, business, small business, Nigeria, startup, support, accounting, grow, scale, manage">
         <!-- favicon -->
-        <link rel="shortcut icon" href="{{ asset('logos/maevelarge.png') }}">
+        <link rel="shortcut icon" href="{{ asset('logos/mavelarge.png') }}">
         <!-- animation -->
         <link rel="stylesheet" href="{{ asset('css/animate.css') }}" />
         <!-- bootstrap -->
