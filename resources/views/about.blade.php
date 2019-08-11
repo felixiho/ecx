@@ -12,7 +12,7 @@
                 <div class="display-table-cell vertical-align-middle text-center">
                     <!-- start sub title -->
                     <span class="display-block text-white opacity6 margin-10px-bottom alt-font">
-                        We build ideas.
+                        We support business growth.
                     </span>
                     <!-- end sub title -->
                     <!-- start page title -->
@@ -41,15 +41,10 @@
         <div class="row equalize md-equalize-auto">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding display-table md-margin-five-top sm-text-center xs-no-margin-top wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
                 <div class="display-table-cell vertical-align-middle padding-twelve-lr md-padding-15px-lr xs-text-center xs-padding-five-lr xs-padding-ten-top width-100">
-                    <h4 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">Mave's MISSION </h4>
+                    <h4 class="font-weight-600 alt-font text-extra-dark-gray letter-spacing-minus-1">About Us </h4>
                     <p class="text-extra-large text-extra-dark-gray alt-font font-weight-400">
-                    To take businesses to the next level.
-                    </p>
-                    <p >
-                    Mave Business Support Services handles each client dinstinctly; prioritizing on the necessary
-                    features and using industry standard practices to quickly develop a well tailored solution.
-                    bla blablablaasdfadfasdfmdf
-
+                        <b>MAVE BUSINESS SUPPORT SERVICES (MAVE SERVICES)</b> is a crew of Accountants and Risk Managers providing solutions for a range of business needs of startups and growing business in Nigeria.
+                        Our purpose is to provide startups the support required to grow their business whilst the entrepreneurs focus on the actual running of the business.
                     </p>
                     <p class="text-extra-dark-gray">
                     We support result driven companies.
@@ -65,20 +60,19 @@
         <div class="row">
             <div class="col-md-10 col-sm-12 col-xs-12 wow fadeIn sm-text-center" style="visibility: visible; animation-name: fadeIn;">
                 <span class="text-extra-large text-middle-line text-dark-gray display-block margin-five-bottom sm-margin-15px-bottom font-weight-300 sm-text-middle-line">
-                    Our Expertise and Services
+                    Our Mission
                 </span>
                 <h4 class="text-extra-light-gray display-inline-block font-weight-300 sm-width-80 sm-center-col xs-width-100">
-                    With our vast experience in managing and With our vast experience in managing and With our vast experience in managing and With our vast experience in managing and
-                    our vast experience in managing and With our vast experience in managing and
+                    We are on a mission to help startups and small businesses achieve sustainable growth
                 </h4>
-                <a href="{{URL('process')}}" class="margin-35px-top btn btn-small btn-white sm-margin-30px-top">
-                    Our Process
+                <a href="{{URL('services')}}" class="margin-35px-top btn btn-small btn-white sm-margin-30px-top">
+                    Our Services
                 </a>
             </div>
         </div>
     </div>
 </section>
-<section class="half-section wow fadeIn cover-background" style="background-image: url('http://placehold.it/1920x472');">
+<section class="half-section wow fadeIn cover-background" style="background-image: url('/customimg/abohut-us.jpg');">
     <div class="opacity-medium bg-extra-dark-gray"></div>
     <div class="container">
         <div class="row">
