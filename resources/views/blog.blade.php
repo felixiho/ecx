@@ -12,7 +12,7 @@
                 <div class="display-table-cell vertical-align-middle text-center">
                     <!-- start page title -->
                     <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Mave's Blog</h1>
-                    <span class="text-white opacity6 alt-font">Browse through our well written articles</span>
+                    <span class="text-white opacity6 alt-font">Let what we write speak for us.</span>
                     <!-- end page title -->
                 </div>
             </div>
