@@ -19,8 +19,8 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/process', function(){
-    return view('process');
+Route::get('/services', function(){
+    return view('services');
 });
 
 Route::get('/projects', function(){
