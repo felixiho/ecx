@@ -30,8 +30,8 @@
         <div class="row equalize sm-equalize-auto no-margin">
             <div class="col-md-6 col-sm-12 col-xs-12 display-table wow fadeIn last-paragraph-no-margin sm-text-center">
                 <div class="display-table-cell vertical-align-middle padding-fifteen-all md-padding-ten-all xs-no-padding-lr xs-text-center">
-                    <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink">We give support services to result driven firms.</span>
-                    <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-margin-lr-auto xs-width-100">A consultancy firm Crafting the next billion dollar business.</h4>
+                    <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink">Our Goal is to support your business growth.</span>
+                    <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-margin-lr-auto xs-width-100">A consultancy firm Crafting the next billion naira business.</h4>
                     <p class="width-80 md-width-100">
                         Mave Business Support Services handles each client uniquely, prioritizing on the necessary areas and using industry standard to quickly render a well-tailored service.
                      </p>
@@ -52,10 +52,9 @@
     <div class="container position-relative">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 text-center center-col">
-             <h5 class="alt-font text-white">Build. Learn. Grow.</h5>
+             <h5 class="alt-font text-white">Ready for the next level?</h5>
              <span class="text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100">
-                Learn about our process
-                <a href="{{URL('/process')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Our Process</a>
+                <a href="{{URL('/get-started')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Get Started</a>
 
             </span>
             </div>
@@ -105,96 +104,7 @@
     </div>
 </section>
 
-<section class="half-section wow fadeIn cover-background" style="background-image: url('/customimg/light-unsplash.jpg');">
-    <div class="opacity-medium bg-extra-dark-gray"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 center-col position-relative text-center">
-                <span class="text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100">We'd love to hear about your business</span>
-                <a href="{{URL('/get-started')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Get Started</a>
-            </div>
-        </div>
-    </div>
-</section>
 <!-- end call to action -->
-<!-- start blog section -->
-<section class="wow fadeIn hover-option4 blog-post-style3">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
-                <h5 class="alt-font text-extra-dark-gray font-weight-700 text-uppercase">Latest Blog Posts</h5>
-            </div>
-        </div>
-        <div class="row equalize xs-equalize-auto">
-            <!-- start blog post item -->
-            <div class="grid-item col-md-4 col-sm-6 col-xs-12 wow fadeInUp sm-padding-30px-bottom xs-text-center">
-                <div class="blog-post bg-light-gray inner-match-height">
-                    <div class="blog-post-images overflow-hidden position-relative">
-                        <a href="blog-post-layout-01.html">
-                                <img src="{{asset('logos/black2.png')}}" alt="">
-                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
-                        </a>
-                    </div>
-                    <div class="post-details padding-40px-all sm-padding-20px-all">
-                        <a href="blog-post-layout-01.html" class="alt-font post-title text-medium text-extra-dark-gray width-100 display-block md-width-100 margin-15px-bottom">
-                            10 Tips to take your business to the next level.
-                        </a>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
-                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb sm-margin-15px-tb"></div>
-                        <div class="author">
-                            <span class="text-medium-gray text-uppercase text-extra-small display-inline-block sm-display-block sm-margin-10px-top">by <a href="blog-grid.html" class="text-medium-gray">Okeke Felix</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 July 2019</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end blog post item -->
-            <!-- start blog post item -->
-            <div class="grid-item col-md-4 col-sm-6 col-xs-12 wow fadeInUp sm-padding-30px-bottom xs-text-center" data-wow-delay="0.2s">
-                <div class="blog-post bg-light-gray inner-match-height">
-                    <div class="blog-post-images overflow-hidden position-relative">
-                        <a href="blog-post-layout-02.html">
-                                <img src="{{asset('logos/black2.png')}}" alt="">
-                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
-                        </a>
-                    </div>
-                    <div class="post-details padding-40px-all sm-padding-20px-all">
-                        <a href="blog-post-layout-02.html" class="alt-font post-title text-medium text-extra-dark-gray width-100 display-block md-width-100 margin-15px-bottom">
-                            Taxation; The good, bad and ugly.
-                        </a>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
-                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb sm-margin-15px-tb"></div>
-                        <div class="author">
-                            <span class="text-medium-gray text-uppercase text-extra-small display-inline-block sm-display-block sm-margin-10px-top">by <a href="blog-grid.html" class="text-medium-gray">Okeke Felix</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 July 2019</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end blog post item -->
-            <!-- start blog post item -->
-            <div class="grid-item col-md-4 col-sm-6 col-xs-12 wow fadeInUp xs-text-center" data-wow-delay="0.4s">
-                <div class="blog-post bg-light-gray inner-match-height">
-                    <div class="blog-post-images overflow-hidden position-relative">
-                        <a href="blog-post-layout-03.html">
-                                <img src="{{asset('logos/black2.png')}}" alt="">
-                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
-                        </a>
-                    </div>
-                    <div class="post-details padding-40px-all sm-padding-20px-all">
-                        <a href="blog-post-layout-03.html" class="alt-font post-title text-medium text-extra-dark-gray width-100 display-block md-width-100 margin-15px-bottom">
-                            A Guide to Management.
-                        </a>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy....</p>
-                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb sm-margin-15px-tb"></div>
-                        <div class="author">
-                            <span class="text-medium-gray text-uppercase text-extra-small display-inline-block sm-display-block sm-margin-10px-top">by <a href="blog-grid.html" class="text-medium-gray">Okeke Felix</a>&nbsp;&nbsp;|&nbsp;&nbsp;15 July 2019</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end blog post item -->
-        </div>
-    </div>
-</section>
 <!-- end blog section -->
 
 
