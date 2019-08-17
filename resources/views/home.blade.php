@@ -28,19 +28,26 @@
 <section class="no-padding wow fadeIn bg-light-gray" id="services">
     <div class="container-fluid no-padding">
         <div class="row equalize sm-equalize-auto no-margin">
-            <div class="col-md-6 col-sm-12 col-xs-12 display-table wow fadeIn last-paragraph-no-margin sm-text-center">
+            <div class="col-md-7 col-sm-12 col-xs-12 display-table wow fadeIn last-paragraph-no-margin sm-text-center">
                 <div class="display-table-cell vertical-align-middle padding-fifteen-all md-padding-ten-all xs-no-padding-lr xs-text-center">
                     <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink">Our Goal is to support your business growth.</span>
-                    <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-margin-lr-auto xs-width-100">A consultancy firm Crafting the next billion naira business.</h4>
-                    <p class="width-80 md-width-100">
-                        Mave Business Support Services handles each client uniquely, prioritizing on the necessary areas and using industry standard to quickly render a well-tailored service.
-                     </p>
+                    <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-margin-lr-auto xs-width-100">
+                    So, you have just registered that business and set up shop?
+                    </h4>
+                    <p class="width-100 md-width-100">
+                        But wait a minute, when the sales start coming through, as they will surely do; how do you send your invoices and track payments?
+                        <br>
+                        How do you know how much you make from each client or that your revenues will be sufficient to cover your costs and expenses?
+                        <br>
+                        You need a good accounting system!
+                        At MAVE, we are all about ensuring you have the right financial information to make sound decisions for your business.
+                    </p>
                     <a href="{{URL('/about')}}" class="btn btn-dark-gray btn-small text-extra-small border-radius-4 margin-35px-top">
                         About Us
                     </a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12 col-xs-12 position-relative sm-height-500px xs-height-300 cover-background wow fadeIn" style="background-image: url('/customimg/computer-unsplash.jpg')"></div>
+            <div class="col-md-5 col-sm-12 col-xs-12 position-relative sm-height-500px xs-height-300 cover-background wow fadeIn" style="background-image: url('/customimg/computer-unsplash.jpg')"></div>
         </div>
     </div>
 </section>
