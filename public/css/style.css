@@ -137,7 +137,7 @@ Table of contents
     Reset
 ====================================== */
 
-body{ font-family: 'Bahnschrift Regular', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
+body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 a, a:active, a:focus { color: #6f6f6f; text-decoration: none; }
 a:hover, a:active{color: #be0e5f; text-decoration: none;}
@@ -169,8 +169,8 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px}
 ====================================== */
 
 /* font family */
-.alt-font {font-family: 'Bahnschrift Regular','Montserrat', sans-serif; font-weight: 500}
-.main-font {font-family: 'Bahnschrift Regular', 'Roboto', sans-serif;}
+.alt-font {font-family: 'Montserrat', sans-serif; font-weight: 500}
+.main-font {font-family: 'Roboto', sans-serif;}
 
 /* heading */
 h1, h2, h3, h4, h5, h6 {margin:0 0 25px; padding:0; letter-spacing: 0; font-weight: 400;}
