@@ -70,46 +70,7 @@
 </section>
 <!-- end parallax with video section -->
   <!-- start testimonial style 03 section -->
-<section class="wow fadeIn">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7 col-sm-12 col-xs-12 center-col text-center margin-100px-bottom xs-margin-40px-bottom">
-                <div class="position-relative overflow-hidden width-100">
-                    <h5 class="text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 sm-width-100 xs-width-100">TESTIMONIALS</h5>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <!-- start testimonial item -->
-            <div class="col-md-4 col-sm-4 col-xs-12 sm-margin-four-bottom text-center xs-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin">
-                <img src="{{asset('logos/black2.png')}}" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
-                <p class="width-90 center-col">Their team are easy to work with and helped us increase revenue in a short amount of time. Thanks guys for all your hard work.</p>
-                <i class="fas fa-quote-left icon-small text-deep-pink display-block margin-30px-top margin-15px-bottom"></i>
-                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Buhari Goodluck</span>
-                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Prima Logistics</span>
-            </div>
-            <!-- end testimonial item -->
-            <!-- start testimonial item -->
-            <div class="col-md-4 col-sm-4 col-xs-12 sm-margin-four-bottom text-center xs-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin" data-wow-delay="0.2s">
-                <img src="{{asset('logos/black2.png')}}" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
-                <p class="width-90 center-col">Trust us we looked for a very long time and wasted bla bla bla bla.</p>
-                <i class="fas fa-quote-left icon-small text-deep-pink display-block margin-30px-top margin-15px-bottom"></i>
-                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Aje Baba</span>
-                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Riska Limited</span>
-            </div>
-            <!-- end testimonial item -->
-            <!-- start testimonial item -->
-            <div class="col-md-4 col-sm-4 col-xs-12 sm-margin-four-bottom text-center wow fadeInRight last-paragraph-no-margin" data-wow-delay="0.4s">
-                <img src="{{asset('logos/black2.png')}}" class="border-radius-100 width-30 margin-30px-bottom" alt=""/>
-                <p class="width-90 center-col">This is an excellent company! I personally enjoyed the energy and the professional support the whole team gave to us.</p>
-                <i class="fas fa-quote-left icon-small text-deep-pink display-block margin-30px-top margin-15px-bottom"></i>
-                <span class="text-extra-dark-gray font-weight-600 text-small text-uppercase display-block line-height-10 alt-font">Abdul Mohammed</span>
-                <span class="text-light-gray2 text-extra-small text-uppercase text-medium-gray">Creda Limited</span>
-            </div>
-            <!-- start testimonial item -->
-        </div>
-    </div>
-</section>
+ 
 
 <!-- end call to action -->
 <!-- end blog section -->

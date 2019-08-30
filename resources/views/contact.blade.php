@@ -51,7 +51,7 @@
                     <div class="display-table-cell vertical-align-middle text-center">
                         <i class="icon-map text-deep-pink icon-medium margin-25px-bottom"></i>
                         <div class="text-white text-uppercase alt-font font-weight-600 margin-5px-bottom">Contact Address</div>
-                        <p class="width-60 md-width-80 center-col text-medium">Jaja Hall, Unilag Lagos.</p>
+                        <p class="width-60 md-width-80 center-col text-medium">3 Delo Dosumu Street, Ikeja, Lagos.</p>
                     </div>
                 </div>
                 <!-- end contact item -->
@@ -60,8 +60,8 @@
                     <div class="display-table-cell vertical-align-middle text-center">
                         <i class="icon-chat text-deep-pink icon-medium margin-25px-bottom"></i>
                         <div class="text-white text-uppercase alt-font font-weight-600 margin-5px-bottom">Let's Talk</div>
-                        <p class="center-col text-medium no-margin">Phone: 01 565669</p>
-                        <p class="center-col text-medium no-margin">Phone: 0905 369 3367</p>
+                        <p class="center-col text-medium no-margin">Phone: 08176592224</p>
+                        <p class="center-col text-medium no-margin">Phone: 08176 592 224</p>
                     </div>
                 </div>
                 <!-- end contact item -->
@@ -71,7 +71,7 @@
                         <i class="icon-envelope text-deep-pink icon-medium margin-25px-bottom"></i>
                         <div class="text-white text-uppercase alt-font font-weight-600 margin-5px-bottom">Email Us</div>
                         <p class="center-col text-medium no-margin"><a href="mailto:info@domain.com">hello@maveservices.com</a></p>
-                        <p class="center-col text-medium"><a href="mailto:hire@domain.com">hi@maveservices.com</a></p>
+                        <p class="center-col text-medium"><a href="mailto:hire@domain.com">info@maveservices.com</a></p>
                     </div>
                 </div>
                 <!-- end contact item -->
@@ -96,7 +96,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center last-paragraph-no-margin">
                 <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase">tell us about your project</h5>
-                 
+
             </div>
         </div>
         <form id="project-contact-form" action="javascript:void(0)" method="post">
