@@ -40,12 +40,104 @@ Table of contents
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Livvic&display=swap');
+
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+1.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+10.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+11.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+12.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+13.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+14.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+2.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+3.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+4.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+5.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+6.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+7.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+8.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT+9.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
+@font-face {
+    font-family: 'Bahnschrift Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bahnschrift Regular'), url('https://www.cufonfonts.com/cdn/webfont/bahnschrift/BAHNSCHRIFT.woff?token=llEn-rIWdJ-Y1VVRsU94TiqJNIdiRQI7') format('woff');
+}
 
 /* ===================================
     Reset
 ====================================== */
 
-body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
+body{ font-family: 'Bahnschrift Regular', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 a, a:active, a:focus { color: #6f6f6f; text-decoration: none; }
 a:hover, a:active{color: #be0e5f; text-decoration: none;}
@@ -77,8 +169,8 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px}
 ====================================== */
 
 /* font family */
-.alt-font {font-family: 'Montserrat', sans-serif; font-weight: 500}
-.main-font {font-family: 'Roboto', sans-serif;}
+.alt-font {font-family: 'Bahnschrift Regular','Montserrat', sans-serif; font-weight: 500}
+.main-font {font-family: 'Bahnschrift Regular', 'Roboto', sans-serif;}
 
 /* heading */
 h1, h2, h3, h4, h5, h6 {margin:0 0 25px; padding:0; letter-spacing: 0; font-weight: 400;}
