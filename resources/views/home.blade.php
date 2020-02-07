@@ -45,6 +45,74 @@
 </section>
 <!-- end section -->
 
+
+        <!-- start services showcase section -->
+        <section class="bg-extra-dark-gray">
+            <div class="container">
+                <div class="row equalize xs-equalize-auto">
+                    <!-- start service item -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-gem text-primary mb-4"></i>                        <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Frontend Development</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Every Wednesday (4 - 6pm)
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-laptop text-primary mb-4"></i>
+                                     <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Backend Development</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Every Friday (3 - 5pm)
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-user text-primary mb-4"></i>
+                        <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">UI/UX Design</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Every Friday (4 - 6pm)
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-building text-primary mb-4"></i>
+                                              <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Engineering Design</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Every Wednesday (3 - 5pm)
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-code text-primary mb-4"></i>
+                                        <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Python</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Every Friday (3 - 5pm)
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-mobile text-primary mb-4"></i>
+                                             <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Mobile Development</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Every Wednesday (4 - 6pm)
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-certificate text-primary mb-4"></i>
+                                     <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Soft Skills</div>
+                        <p class="width-80 center-col xs-width-100">
+                            Sometime in June
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
+                        <i style="color: #be0e5f" class="fas fa-4x fa-anchor text-primary mb-4"></i>
+                                       <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">HackX </div>
+                        <p class="width-80 center-col xs-width-100">
+                            One Hackathon to crown it all
+                        </p>
+                    </div>
+                    <!-- end service item -->
+
+                    <!-- end service item -->
+                </div>
+            </div>
+        </section>
+        <!-- end services showcase section -->
 <!-- start parallax with video section -->
 <section class="parallax" data-stellar-background-ratio="0.1">
     <div class="opacity-extra-medium bg-black" style="opacity: 1;  "></div>

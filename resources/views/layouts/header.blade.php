@@ -24,14 +24,12 @@
                                 <a href="{{URL('/')}}">Home</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                             <!-- end menu item -->
+
                             <li class="dropdown simple-dropdown">
                                 <a href="{{URL('/about')}}">About</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                             <li class="dropdown simple-dropdown">
                                 <a href="{{URL('/services')}}">Services</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
-                            </li>
-                            <li class="dropdown simple-dropdown">
-                                <a href="{{URL('/blog')}}" title="Blog">Blog</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>
                             </li>
                             <li class="dropdown megamenu-fw">
                                 <a href="{{URL('/contact')}}">Contact</a><i class="" data-toggle="dropdown" aria-hidden="true"></i>

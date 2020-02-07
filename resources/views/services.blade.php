@@ -57,7 +57,7 @@
                                                     data-responsive_offset="on"
 
                                                     data-frames='[{"delay":"+290","speed":2000,"frame":"0","from":"y:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-                                                    style="z-index: 11; letter-spacing: -1px;"><a href="single-project-page-01.html" class="text-white text-white-hover">Accounting<br>Services  & <br>Softwares</a></div>
+                                                    style="z-index: 11; letter-spacing: -1px;"><a href="single-project-page-01.html" class="text-white text-white-hover">Python<br/>Js<br/>HTML/CSS<br/>Dart</a></div>
 
                                             <!-- layer nr. 4 -->
                                             <div class="tp-caption tp-resizeme text-extra-large text-medium margin-50px-top font-weight-300 alt-font xs-margin-15px-top"
@@ -124,7 +124,7 @@
 
                                                     data-frames='[{"delay":"+290","speed":2000,"frame":"0","from":"y:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 
-                                                    style="z-index: 11; letter-spacing: -1px;"><a href="single-project-page-02.html" class="text-white text-white-hover">Risk <br>Management<br>Advice</a></div>
+                                                    style="z-index: 11; letter-spacing: -1px;"><a href="single-project-page-02.html" class="text-white text-white-hover">UI/UX &<br>Engineering<br/>Design</a></div>
 
                                             <!-- layer nr. 13 -->
                                             <div class="tp-caption tp-resizeme text-extra-large text-medium margin-50px-top text-extra-medium-gray font-weight-300 alt-font xs-margin-15px-top"
@@ -196,7 +196,7 @@
 
                                                     data-frames='[{"delay":"+290","speed":2000,"frame":"0","from":"y:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 
-                                                    style="z-index: 11; letter-spacing: -1px;"><a href="single-project-page-03.html" class="text-white text-white-hover">Training</a></div>
+                                                    style="z-index: 11; letter-spacing: -1px;"><a href="single-project-page-03.html" class="text-white text-white-hover">Presentation <br/> Writing</a></div>
 
                                             <!-- layer nr. 22 -->
                                             <div class="tp-caption tp-resizeme text-extra-large text-medium margin-50px-top text-extra-medium-gray font-weight-300 alt-font xs-margin-15px-top"
@@ -245,7 +245,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 17; min-width: 260px; max-width: 260px; white-space: nowrap; font-size: 15px; line-height: 15px; font-weight: 500; color: rgba(255, 255, 255, 1.00);">1 <div class="blurslider-line" style="display:inline-block;width:40px;height:1px;background:#ff214f;margin: 10px 20px 4px 15px;"></div>Accounting</div>
+                            style="z-index: 17; min-width: 260px; max-width: 260px; white-space: nowrap; font-size: 15px; line-height: 15px; font-weight: 500; color: rgba(255, 255, 255, 1.00);">1 <div class="blurslider-line" style="display:inline-block;width:40px;height:1px;background:#ff214f;margin: 10px 20px 4px 15px;"></div>Programming</div>
 
                     <!-- layer nr. 29 -->
                     <div class="tp-caption tp-shape tp-shapewrapper  tp-static-layer"
@@ -323,7 +323,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 20; min-width: 260px; max-width: 260px; white-space: nowrap; font-size: 15px; line-height: 15px; font-weight: 500; color: rgba(255, 255, 255, 1.00);">2 <div class="blurslider-line" style="display:inline-block;width:40px;height:1px;background:#ff214f;margin: 10px 20px 4px 15px;"></div>Risk Mangement</div>
+                            style="z-index: 20; min-width: 260px; max-width: 260px; white-space: nowrap; font-size: 15px; line-height: 15px; font-weight: 500; color: rgba(255, 255, 255, 1.00);">2 <div class="blurslider-line" style="display:inline-block;width:40px;height:1px;background:#ff214f;margin: 10px 20px 4px 15px;"></div>Design</div>
 
                     <!-- layer nr. 32 -->
                     <div class="tp-caption tp-shape tp-shapewrapper  tp-static-layer"
@@ -401,7 +401,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 23; min-width: 260px; max-width: 260px; white-space: nowrap; font-size: 15px; line-height: 15px; font-weight: 500; color: rgba(255, 255, 255, 1.00);">3 <div class="blurslider-line" style="display:inline-block;width:40px;height:1px;background:#ff214f;margin: 10px 20px 4px 15px;"></div>Training</div>
+                            style="z-index: 23; min-width: 260px; max-width: 260px; white-space: nowrap; font-size: 15px; line-height: 15px; font-weight: 500; color: rgba(255, 255, 255, 1.00);">3 <div class="blurslider-line" style="display:inline-block;width:40px;height:1px;background:#ff214f;margin: 10px 20px 4px 15px;"></div>Soft Skills</div>
 
                     <!-- layer nr. 35 -->
                     <div class="tp-caption tp-shape tp-shapewrapper  tp-static-layer"
@@ -471,11 +471,13 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <!-- tab navigation -->
                 <ul class="nav nav-tabs alt-font text-uppercase alt-font text-small display-inherit text-center font-weight-600">
-                    <li class="active"><a href="#tab_sec1" data-toggle="tab">Accounting Services</a></li>
-                    <li><a href="#tab_sec2" data-toggle="tab">Accounting Software</a></li>
-                    <li><a href="#tab_sec3" data-toggle="tab">Risk Management Advice</a></li>
-                    <li><a href="#tab_sec4" data-toggle="tab">Training</a></li>
-                    <li><a href="#tab_sec5" data-toggle="tab">Other Services</a></li>
+                    <li class="active"><a href="#tab_sec1" data-toggle="tab">Frontend Development</a></li>
+                    <li><a href="#tab_sec2" data-toggle="tab">Backend Development</a></li>
+                    <li><a href="#tab_sec3" data-toggle="tab">UI/UX Design </a></li>
+                    <li><a href="#tab_sec4" data-toggle="tab">Engineering Design</a></li>
+                    <li><a href="#tab_sec5" data-toggle="tab">Python</a></li>
+                    <li><a href="#tab_sec6" data-toggle="tab">Mobile Development</a></li>
+                    <li><a href="#tab_sec7" data-toggle="tab">Soft skills</a></li>
                 </ul>
                 <!-- tab end navigation -->
             </div>
@@ -487,23 +489,20 @@
                     <div class="col-md-10 col-md-offset-2 col-xs-12 col-md-offset-1">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle">
-                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Accounting Services</h6>
+                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Frontend Development</h6>
                                 <span class="text-extra-large text-extra-dark-gray margin-20px-bottom display-block">
                                 </span>
                                 <p class="text-extra-dark-gray">
-                                    Accounting information is vital for financial management and growth of a business;
-                                    however it can be overwhelming for business owners as they have to deal with lots of other issues in the business.
+                                    Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for
+                                    a website or Web Application so that a user can see and interact with them directly.
                                     <br>
-                                    We provide you with access to qualified accountants and bookkeepers who do your numbers and provide you with
-                                    the financial information you need to manage the business whilst you focus on the core business.
+                                    We provide you with access to qualified frontend developers to learn from and get career advice from.
                                     <br><br>
-                                    Our accounting Services Include:
+                                    Our curriculum Include:
                                     <ul>
-                                        <li class="text-extra-dark-gray">Bookkeeping</li>
-                                        <li class="text-extra-dark-gray">Financial Reporting (Monthly, Quarterly or Annually)</li>
-                                        <li class="text-extra-dark-gray">VAT Reconciliations and Returns</li>
-                                        <li class="text-extra-dark-gray">Financial Forecast and Budgeting</li>
-                                        <li class="text-extra-dark-gray">Payroll Management</li>
+                                        <li class="text-extra-dark-gray">HTML</li>
+                                        <li class="text-extra-dark-gray">CSS</li>
+                                        <li class="text-extra-dark-gray">JavaScript</li>
                                     </ul>
                                 </p>
                                 <a href="{{URL('get-started')}}" class="btn btn-small btn-rounded btn-dark-gray">Get Started</a>
@@ -519,48 +518,24 @@
                     <div class="col-md-10 col-md-offset-2 col-xs-12 col-md-offset-1">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle">
-                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Accounting Software</h6>
+                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Backend Development</h6>
                                 <span class="text-extra-large text-extra-dark-gray margin-20px-bottom display-block">
                                 </span>
                                 <p class="text-extra-dark-gray">
-                                    At MAVEBSS, we believe that location should not be a barrier to running your business.
-                                    Whether from home, office, clients’ location or wherever, you should be able to run your
-                                    business, so why limit your accounting solution to the office alone.
+                                    Backend development (also stylized as back-end or back end development) is the skill that powers the web. Yet it does it modestly, without fanfare—allowing people to browse their favorite sites without even knowing about all the work put in by the backend developer or team.
                                     <br>
-                                    We are a SAGE ONE CERTIFIED ADVISOR and we provide implementation, training and
-                                    support for SAGE ONE.
+                                    Backend developer focuses on databases, scripting, and the architecture of websites. Code written by back-end developers helps to communicate the database information to the browser.
                                     <br><br>
-                                    SAGE ONE is an online cloud based accounting solution that enables you work
-                                    and keep track of your numbers on the go.
+                                    Our curriculum Include:
                                     <ul>
                                         <li class="text-extra-dark-gray">
-                                            It is a cloud based accounting solution; meaning you don’t need to
-                                            set up servers anywhere.
+                                            JavaScript
                                         </li>
                                         <li class="text-extra-dark-gray">
-                                            It’s an online solution, you can access it from any windows, android or ios device,
-                                            just like your email.
+                                            Databases
                                         </li>
                                         <li class="text-extra-dark-gray">
-                                            Even whilst out of the office, create and send professional looking quotes and invoices.
-                                        </li>
-                                        <li class="text-extra-dark-gray">
-                                            Enables you track income, expenses and follow up on invoices on the go.
-                                        </li>
-                                        <li class="text-extra-dark-gray">
-                                            Keeps your VAT information, so you don’t need to do complex monthly reconciliations.
-                                        </li>
-                                        <li class="text-extra-dark-gray">
-                                            Mobile App version available.
-                                        </li>
-                                        <li class="text-extra-dark-gray">
-                                            Currency available in Naira.
-                                        </li>
-                                        <li class="text-extra-dark-gray">
-                                            Options for Invoicing, Accounting and Payroll.
-                                        </li>
-                                        <li class="text-extra-dark-gray">
-                                            Support from MAVEBSS.
+                                            Servers
                                         </li>
                                     </ul>
                                 </p>
@@ -578,20 +553,19 @@
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle">
                                 <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">
-                                    Risk Management Advisory
+                                    UI/UX Design
                                 </h6>
                                 <p class="text-extra-dark-gray">
-                                    It is no news that risks abound all around us, as every business venture is a risk taking
-                                    expedition with the intent of profit. At MAVEBSS, we help you articulate these risks and plan on how
-                                    to navigate your business around them.
+                                    UX design refers to user experience design, while UI design stands for user interface design. Both of these are crucial to an IT product and need to work closely together.
+Despite being very integral to each other, the roles themselves are quite different, involving distinct processes.
                                     <br><br>
-                                    Our Risk Management Services Include:
-                                    <ul>
-                                        <li class="text-extra-dark-gray">Risk Audit</li>
-                                        <li class="text-extra-dark-gray">Internal Controls design and implementation</li>
-                                        <li class="text-extra-dark-gray">Business Continuity and Succession Planning</li>
-                                        <li class="text-extra-dark-gray">Regulatory and Compliance Risk Management</li>
-                                        <li class="text-extra-dark-gray">Insurance Advice</li>
+                                    UX designers are generally focused on development of digital products, but the theory and process can be applied to just about anything:                                    <ul>
+                                        <li class="text-extra-dark-gray">Competitor Analysis & Customer Analysis
+                                        </li>
+                                        <li class="text-extra-dark-gray">Product Structure/Strategy</li>
+                                        <li class="text-extra-dark-gray">Wireframing, Prototyping and Testing/Iteration</li>
+                                        <li class="text-extra-dark-gray">Design Research</li>
+                                        <li class="text-extra-dark-gray">User Guides/Storyline</li>
                                     </ul>
                                 </p>
                                 <a href="{{URL('get-started')}}" class="btn btn-small btn-rounded btn-dark-gray">Get Started</a>
@@ -607,15 +581,12 @@
                     <div class="col-md-10 col-md-offset-2 col-xs-12 col-md-offset-1">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle">
-                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Training Services</h6>
+                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Engineering Design</h6>
                                 <span class="text-extra-large text-extra-dark-gray margin-20px-bottom display-block">
                                 </span>
                                 <p class="text-extra-dark-gray">
-                                    We provide trainings in the following areas:
+                                    We provide trainings Engineering design
                                     <ul>
-                                        <li class="text-extra-dark-gray">Customer Service</li>
-                                        <li class="text-extra-dark-gray">Bookkeeping for  SME Business Owners/Managers</li>
-                                        <li class="text-extra-dark-gray">Financial Planning & Budgeting for individuals and Business owners </li>
                                     </ul>
                                 </p>
                                 <a href="{{URL('get-started')}}" class="btn btn-small btn-rounded btn-dark-gray">Get Started</a>
@@ -631,7 +602,7 @@
                     <div class="col-md-10 col-md-offset-2 col-xs-12 col-md-offset-1">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle">
-                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Other Support Services</h6>
+                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Python </h6>
                                 <span class="text-extra-large text-extra-dark-gray margin-20px-bottom display-block">
                                 </span>
                                 <p class="text-extra-dark-gray">
@@ -647,17 +618,50 @@
                 </div>
             </div>
             <!-- end tab content -->
-        </div>
-    </div>
-</section>
-<section class="half-section wow fadeIn cover-background" style="background-image: url('http://placehold.it/1920x472');">
-    <div class="opacity-medium bg-extra-dark-gray"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 center-col position-relative text-center">
-                <span class="text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100">We'd love to hear about your project</span>
-                <a href="{{URL('/get-started')}}" class="btn btn-white btn-small vertical-align-top xs-no-margin-right">Start a Project</a>
+            <!-- start tab content -->
+            <div class="tab-pane fade in" id="tab_sec6">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-2 col-xs-12 col-md-offset-1">
+                        <div class="display-table width-100 height-100">
+                            <div class="display-table-cell vertical-align-middle">
+                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Mobile Development</h6>
+                                <span class="text-extra-large text-extra-dark-gray margin-20px-bottom display-block">
+                                </span>
+                                <p class="text-extra-dark-gray">
+                                    We provide trainings in the following areas:
+                                    <ul>
+                                        <li class="text-extra-dark-gray">Flutter</li>
+                                    </ul>
+                                </p>
+                                <a href="{{URL('get-started')}}" class="btn btn-small btn-rounded btn-dark-gray">Get Started</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
+            <!-- end tab content -->
+            <!-- start tab content -->
+            <div class="tab-pane fade in" id="tab_sec7">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-2 col-xs-12 col-md-offset-1">
+                        <div class="display-table width-100 height-100">
+                            <div class="display-table-cell vertical-align-middle">
+                                <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">Soft skills</h6>
+                                <span class="text-extra-large text-extra-dark-gray margin-20px-bottom display-block">
+                                </span>
+                                <p class="text-extra-dark-gray">
+                                    We also provide the following services:
+                                    <ul>
+                                        <li class="text-extra-dark-gray"></li>
+                                    </ul>
+                                </p>
+                                <a href="{{URL('get-started')}}" class="btn btn-small btn-rounded btn-dark-gray">Get Started</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end tab content -->
         </div>
     </div>
 </section>

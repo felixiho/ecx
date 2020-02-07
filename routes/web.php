@@ -33,4 +33,7 @@ Route::get('/blog', function(){
 
 Route::get('/contact', function(){
     return view('contact');
-}); 
+});
+
+Route::get('/download', 'InfoPacket@getDownload')->name('download');
+
