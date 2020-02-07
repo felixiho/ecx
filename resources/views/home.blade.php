@@ -4,7 +4,7 @@
 
 @section("content")
 
-<section class="wow fadeIn no-padding parallax xs-background-image-center" data-stellar-background-ratio="0.5" style="background-image: url('/customimg/smileyoung-unsplash.jpg')">
+<section class="wow fadeIn no-padding parallax xs-background-image-center" data-stellar-background-ratio="0.5" style="background-image: url('/customimg/small.jpg')">
     <div class="opacity-extra-medium bg-black"></div>
     <div class="container-fluid position-relative full-screen">
         <div class="slider-typography">
@@ -12,10 +12,9 @@
                 <div class="slider-text-bottom">
                     <div class="col-lg-6 col-md-7 col-sm-12 col-xs-12 pull-right bg-deep-pink-opacity padding-six-lr md-padding-seven-lr padding-five-tb xs-padding-30px-all last-paragraph-no-margin">
                         <div class="box-separator-line width-180px bg-white md-width-120px sm-width-90px sm-display-none"></div>
-                        <h1 class="font-weight-600 alt-font text-white width-95 sm-width-100">Build, Learn and Grow.</h1>
+                        <h1 class="font-weight-600 alt-font text-white width-95 sm-width-100">Engineering Career Expo</h1>
                         <p class="text-large font-weight-300 text-white width-75 md-width-85 sm-width-95 xs-width-100 xs-display-none">
-                            We provide existing and intending small business owners and managers the skills and information to set up and scale their business.
-                        </p>
+                            Build your skills with weekly classes in Front End Web Development, Backend Web Development, UI/UX Design, Python, Android Development and Engineering Design.                         </p>
                         <a href="{{URL('/get-started')}}" target="_blank" class="btn btn-medium btn-white margin-40px-top text-link-deep-pink xs-margin-10px-top">Get Started</a>
                     </div>
                 </div>
@@ -30,24 +29,17 @@
         <div class="row equalize sm-equalize-auto no-margin">
             <div class="col-md-7 col-sm-12 col-xs-12 display-table wow fadeIn last-paragraph-no-margin sm-text-center">
                 <div class="display-table-cell vertical-align-middle padding-fifteen-all md-padding-ten-all xs-no-padding-lr xs-text-center">
-                    <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink">Our Goal is to support your business growth.</span>
-                    <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-margin-lr-auto xs-width-100">
-                    So, you have just registered that business and set up shop?
-                    </h4>
+                    <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink">Our Mission is to build better Engineers.</span>
                     <p class="width-100 md-width-100">
-                        But wait a minute, when the sales start coming through, as they will surely do; how do you send your invoices and track payments?
-                        <br>
-                        How do you know how much you make from each client or that your revenues will be sufficient to cover your costs and expenses?
-                        <br>
-                        You need a good accounting system!
-                        At MAVE, we are all about ensuring you have the right financial information to make sound decisions for your business.
+                        Engineering Career Expo is a platform established to create an environment of interaction
+                        between students and industry based personnel so as to empower them with relevant skills in the engineering field
                     </p>
                     <a href="{{URL('/about')}}" class="btn btn-dark-gray btn-small text-extra-small border-radius-4 margin-35px-top">
                         About Us
                     </a>
                 </div>
             </div>
-            <div class="col-md-5 col-sm-12 col-xs-12 position-relative sm-height-500px xs-height-300 cover-background wow fadeIn" style="background-image: url('/customimg/computer-unsplash.jpg')"></div>
+            <div class="col-md-5 col-sm-12 col-xs-12 position-relative sm-height-500px xs-height-300 cover-background wow fadeIn" style="background-image: url('/customimg/mission3.jpg')"></div>
         </div>
     </div>
 </section>
@@ -70,7 +62,7 @@
 </section>
 <!-- end parallax with video section -->
   <!-- start testimonial style 03 section -->
- 
+
 
 <!-- end call to action -->
 <!-- end blog section -->

@@ -6,7 +6,8 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray sm-no-border-right sm-margin-30px-bottom xs-text-center">
                     <!-- start logo -->
                     <a href="{{URL('/')}}" class="margin-20px-bottom display-inline-block">
-                        <img class="footer-logo" src="{{asset('logos/white.png')}}" data-rjs="{{asset('logos/white.png')}}" alt="Pofo"></a>
+                        <img class="footer-logo" src="{{asset('logos/logo.png')}}" data-rjs="{{asset('logos/logo.png')}}" alt="ECX"></a>
+                        <p>Engineering Career Expo</p>
                     <!-- end logo -->
                     <div class="clear"></div>
                     <div class="social-icon-style-8 display-inline-block vertical-align-middle">
@@ -32,9 +33,8 @@
                 <!-- start contact information -->
                 <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right  xs-margin-30px-bottom xs-text-center">
                     <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">Contact Info</div>
-                    <div class="text-small">Email: <a href="mailto:sales@domain.com">hello@maveservices.com</a></div>
-                    <div class="text-small">Phone: 08176592224</div>
-                    <div class="text-small">Address: 3 Delo Dosumu Street, Ikeja, Lagos.</div>
+                    <div class="text-small">Email: <a href="mailto:ecxunilag@gmail.com">ecxunilag@gmail.com</a></div>
+                    <div class="text-small">Phone: +234 818 660 9399</div>
                 </div>
                 <!-- end contact information -->
 
@@ -45,7 +45,7 @@
         <div class="container">
             <div class="row">
                 <!-- start copyright -->
-                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">&copy; 2017 Mave </div>
+                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">&copy; 2020 ECX </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-right text-small xs-text-center">
                     <a href="javascript:void(0);" class="text-dark-gray">Term and Condition</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:void(0);" class="text-dark-gray">Privacy Policy</a>
                 </div>
