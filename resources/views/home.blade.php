@@ -50,6 +50,8 @@
         <section class="bg-extra-dark-gray">
             <div class="container">
                 <div class="row equalize xs-equalize-auto">
+
+                    <span class="text-medium margin-15px-bottom display-block alt-font text-deep-pink text-center">We've got a class for everyone.</span>
                     <!-- start service item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 text-center last-paragraph-no-margin margin-70px-bottom sm-margin-40px-bottom xs-margin-30px-bottom wow fadeInUp">
                         <i style="color: #be0e5f" class="fas fa-4x fa-gem text-primary mb-4"></i>                        <div class="text-white margin-10px-bottom sm-margin-5px-bottom alt-font font-weight-600">Frontend Development</div>
