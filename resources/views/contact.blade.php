@@ -103,7 +103,7 @@
                     <input type="text" name="email" id="email" placeholder="E-mail *" class="big-input">
                 </div>
                 <div class="col-md-12">
-                    <textarea name="comment" id="comment" placeholder="Describe your issues/recommendation" rows="6" class="big-textarea"></textarea>
+                    <textarea name="comment" id="comment" placeholder="Describe your issues/recommendations" rows="6" class="big-textarea"></textarea>
                 </div>
                 <div class="col-md-12 text-center">
                     <button id="project-contact-us-button" type="submit" class="btn btn-transparent-dark-gray btn-large margin-20px-top">send message</button>

@@ -36,4 +36,18 @@ Route::get('/contact', function(){
 });
 
 Route::get('/download', 'InfoPacket@getDownload')->name('download');
+Route::get('/get-started', function(){
+    return view('get-started');
+});
 
+Auth::routes();
+// Route::get('/login', function(){
+//     return view('login');
+// });
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/attendance', function(){
+    return view('attendance');
+});
+Route::post('/mark-attendance', 'Attendance@store')->name('mark-attendance');
